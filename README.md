@@ -4,4 +4,6 @@ AI Assignment by feroz ali
 this about ai specification fraud detection 
 <br>
 change repo name to AI-Fraud-Dectection-SYSTEM-2K23-CSME-15-
+<br>
+this is a 10 marks assignment 
 
